@@ -86,7 +86,7 @@ height="150px" width="150px" alt="Quang Dung avatar" title="Hi, nice to meet you
                 <img src="https://bachasoftware.com/wp-content/uploads/elementor/thumbs/nodejslogo-pow62y46cznsftlhu4656mybuj5ov274njedz71q40.png" height="32px" alt="nodejs" title="NodeJS"/>
             </td>
             <td>
-             <img src="https://firebase.google.com/static/downloads/brand-guidelines/PNG/logo-vertical.png" height="32px" alt="firebase" title="Firebase"/>
+             <img src="https://cdn.icon-icons.com/icons2/691/PNG/512/google_firebase_icon-icons.com_61475.png" height="32px" alt="firebase" title="Firebase"/>
             </td>
         </tr>
         <tr>
