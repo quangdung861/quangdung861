@@ -83,7 +83,7 @@ height="150px" width="150px" alt="Quang Dung avatar" title="Hi, nice to meet you
                 <img src="https://user-images.githubusercontent.com/64480713/181584158-7624dc4d-6be3-4deb-9410-f79977404ba2.svg" height="32px" alt="prisma" title="Prisma"/>
             </td>
             <td>
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" height="32px" alt="postgres" title="Postgres"/>
+                <img src="https://w1.pngwing.com/pngs/885/534/png-transparent-green-grass-nodejs-javascript-react-mean-angularjs-logo-symbol-thumbnail.png" height="32px" alt="nodejs" title="NodeJS"/>
             </td>
             <td>
             </td>
