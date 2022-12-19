@@ -192,8 +192,8 @@ height="150px" width="150px" alt="Quang Dung avatar" title="Hi, nice to meet you
   <img src="svg/quangdungdev.svg" width="1200" alt="quangdungdev-official" />
 </a>
 <br>
-<br>
-<!-- <h2 align="center">📑 My Favorites Quote 📑</h2>
+<!-- <br>
+<h2 align="center">📑 My Favorites Quote 📑</h2>
 <br>
 <a href="#" target="_blank">
   <img src="svg/quangdungdev-quotes.svg" width="846" height="150" alt="quangdungdev-official" />
