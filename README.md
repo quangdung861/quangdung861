@@ -61,6 +61,8 @@ height="150px" width="150px" alt="Quang Dung avatar" title="Hi, nice to meet you
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="32px" alt="css" title="CSS"/>
                 &nbsp;
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="32px" alt="javascript" title="Javascript"/>
+                &nbsp;
+                <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" height="32px" alt="python" title="Python"/>
             </td>
             <td>
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="32px" alt="go" title="Go"/>
