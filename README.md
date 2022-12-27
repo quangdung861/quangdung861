@@ -61,8 +61,6 @@ height="150px" width="150px" alt="Quang Dung avatar" title="Hi, nice to meet you
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="32px" alt="css" title="CSS"/>
                 &nbsp;
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="32px" alt="javascript" title="Javascript"/>
-                &nbsp;
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="32px" alt="python" title="Python"/>
             </td>
             <td>
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="32px" alt="go" title="Go"/>
@@ -84,9 +82,9 @@ height="150px" width="150px" alt="Quang Dung avatar" title="Hi, nice to meet you
                 <img src="https://cdn.iconscout.com/icon/free/png-256/lodash-283360.png" height="32px" alt="lodash" title="Lodash"/>
             </td>
             <td>
-                <img src="https://w7.pngwing.com/pngs/854/555/png-transparent-vue-js-hd-logo-thumbnail.png" height="32px" alt="vuejs" title="VueJS"/>
+                <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1184px-Vue.js_Logo_2.svg.png" height="32px" alt="vuejs" title="VueJS"/>
                 &nbsp;
-                <img src="https://ijs.gallerycdn.vsassets.io/extensions/ijs/reactnextjssnippets/1.6.0/1604011628777/Microsoft.VisualStudio.Services.Icons.Default" height="32px" alt="nextjs" title="NextJS"/>
+                <img src="https://ui-lib.com/blog/wp-content/uploads/2021/12/nextjs-boilerplate-logo.png" height="32px" alt="nextjs" title="NextJS"/>
             </td>
         </tr>
         <tr>
