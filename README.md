@@ -74,6 +74,22 @@ height="150px" width="150px" alt="Quang Dung avatar" title="Hi, nice to meet you
             </td>
         </tr>
         <tr>
+            <td>:book: <code>Library</code></td>
+            <td>
+                <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" height="32px" alt="react" title="React"/>
+                &nbsp;
+                <img src="https://cdn-icons-png.flaticon.com/512/5968/5968672.png" height="32px" alt="bootstrap" title="Bootstrap"/>
+            </td>
+            <td>
+                <img src="https://cdn.iconscout.com/icon/free/png-256/lodash-283360.png" height="32px" alt="lodash" title="Lodash"/>
+            </td>
+            <td>
+                <img src="https://w7.pngwing.com/pngs/854/555/png-transparent-vue-js-hd-logo-thumbnail.png" height="32px" alt="vuejs" title="VueJS"/>
+                &nbsp;
+                <img src="https://ijs.gallerycdn.vsassets.io/extensions/ijs/reactnextjssnippets/1.6.0/1604011628777/Microsoft.VisualStudio.Services.Icons.Default" height="32px" alt="nextjs" title="NextJS"/>
+            </td>
+        </tr>
+        <tr>
             <td>:framed_picture: <code>UI/UX</code></td>
             <td>
                 <img src="https://camo.githubusercontent.com/363242675617648bfbedd1610f89ac28df0f9e1bac8749d83109fafdf8524fff/68747470733a2f2f67772e616c697061796f626a656374732e636f6d2f7a6f732f726d73706f7274616c2f4b4470677667754d704766716148506a6963524b2e737667" height="32px" alt="antDesign" title="Ant Design"/>
