@@ -111,7 +111,7 @@ height="150px" width="150px" alt="Quang Dung avatar" title="Hi, nice to meet you
                 <img src="https://user-images.githubusercontent.com/64480713/181584158-7624dc4d-6be3-4deb-9410-f79977404ba2.svg" height="32px" alt="prisma" title="Prisma"/>
             </td>
             <td>
-                <img src="https://bachasoftware.com/wp-content/uploads/elementor/thumbs/nodejslogo-pow62y46cznsftlhu4656mybuj5ov274njedz71q40.png" height="32px" alt="nodejs" title="NodeJS"/>
+                <img src="https://cdn.iconscout.com/icon/free/png-256/node-js-1174925.png" height="32px" alt="nodejs" title="NodeJS"/>
             </td>
             <td>
              <img src="https://cdn.icon-icons.com/icons2/691/PNG/512/google_firebase_icon-icons.com_61475.png" height="32px" alt="firebase" title="Firebase"/>
