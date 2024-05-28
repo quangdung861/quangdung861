@@ -92,7 +92,7 @@ height="150px" width="150px" alt="Quang Dung avatar" title="Hi, nice to meet you
         <tr>
             <td>:framed_picture: <code>UI/UX</code></td>
             <td>
-                <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ficonduck.com%2Ficons%2F27019%2Fant-design&psig=AOvVaw0SseCZZuzVd9feA32zH209&ust=1716956503579000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCLDjpcW_r4YDFQAAAAAdAAAAABAE" height="32px" alt="antDesign" title="Ant Design"/>
+                <img src="https://static-00.iconduck.com/assets.00/ant-design-icon-512x512-xbdsnx83.png" height="32px" alt="antDesign" title="Ant Design"/>
                 &nbsp;
                 <img src="https://mui.com/static/logo.png" height="32px" alt="materialUI" title="Material UI"/>
             </td>
