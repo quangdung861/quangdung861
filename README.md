@@ -1,10 +1,11 @@
-<img align="right"
-src="./assets/avatar.jpg"
-height="150px" width="150px" alt="Quang Dung avatar" title="Hi, nice to meet you! 🤖"/>
 
 # Hi, I’m Phan Quang Dung
 
 ## :unicorn: About Me:
+
+<img align="right"
+src="./assets/avatar.jpg"
+height="150px" width="150px" alt="Quang Dung avatar" title="Hi, nice to meet you! 🤖"/>
 
 - I'm <b>Front-End Developer</b>, majoring in <b>Information Technology</b>.
 - I am currently learning <b>React :atom_symbol:</b> for Front-End Development.
