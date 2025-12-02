@@ -7,16 +7,16 @@
 src="./assets/avatar.jpg"
 height="150px" width="150px" alt="Quang Dung avatar" title="Hi, nice to meet you! 🤖"/>
 
-- I'm <b>Front-End Developer</b>, majoring in <b>Information Technology</b>.
-- I am currently learning <b>React :atom_symbol:</b> for Front-End Development.
+- I'm <b>full-stack Developer</b>, majoring in <b>Information Technology</b>.
+- I'm working as a full-stack developer, I mainly work with ReactJS, NestJS and managing the backend/database integration.
 - Kinda self-motivated learner.
 - Interested in new web technologies, frameworks and libraries.
 - :heart:: :tv:, :man_technologist:, :headphones:, :badminton:.
 - :envelope:: quangdung861@gmail.com
 
-<a href="https://www.linkedin.com/in/phan-quang-dung-898476259/">
+<!-- <a href="https://www.linkedin.com/in/phan-quang-dung-898476259/">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="32px" width="32px" alt="linkedin" title="My LinkedIn profile"/>
-</a>
+</a> -->
 <!-- &nbsp;
 <a href="https://twitter.com/duckymomo20012">
     <img src="https://user-images.githubusercontent.com/64480713/181669651-ecc731ff-a047-4ea0-9dab-9a6fd8478a4f.svg" height="32px" width="32px" alt="twitter" title="My Twitter account"/>
@@ -33,14 +33,13 @@ height="150px" width="150px" alt="Quang Dung avatar" title="Hi, nice to meet you
 <a href="https://discordapp.com/users/509778560224067605/">
     <img src="https://user-images.githubusercontent.com/64480713/181579318-2ce0865b-990a-43fd-a49a-2fb80df07164.svg" height="32px" width="32px" alt="discord" title="My Dicord account"/>
 </a> -->
-&nbsp;
-<a href="https://m.me/quangdung861">
+<!-- <a href="https://m.me/quangdung861">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Facebook_Messenger_logo_2020.svg/2048px-Facebook_Messenger_logo_2020.svg.png" height="32px" width="32px" alt="messenger" title="My Messenger account"/>
 </a>
 &nbsp;
 <a href="http://zaloapp.com/qr/p/p7cwbci8b7i3">
     <img src="https://classic.vn/wp-content/uploads/2022/07/zalo-icon.png" height="32px" width="32px" alt="zalo" title="My Zalo account"/>
-</a>
+</a> -->
 
 ## :robot: Technologies:
 
@@ -198,25 +197,7 @@ height="150px" width="150px" alt="Quang Dung avatar" title="Hi, nice to meet you
         </tr>
     </tbody>
 </table>
-
 <br>
-
-## :chart: Github Stats:
-
-<!-- https://github.com/anuraghazra/github-readme-stats -->
-<br>
-<div align=center>
-  <a href="#" title="Quangdungdev">
-    <img width="315" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=quangdung861&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
-  </a>
-  <a href="#" title="Quangdungdev">
-    <img align="right" width="434" src="https://github-readme-stats.vercel.app/api?username=quangdung861&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
-  </a>
-</div>
-</br>
-</br>
-</br>
-</br>
 <a href="#" target="_blank">
   <img src="svg/quangdungdev.svg" width="1200" alt="quangdungdev-official" />
 </a>
